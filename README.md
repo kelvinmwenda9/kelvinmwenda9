@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/_kaburu_" target="blank"><img src="https://img.shields.io/twitter/follow/_kaburu_?logo=twitter&style=for-the-badge" alt="_kaburu_" /></a> </p>
 
-- 🌱 I’m currently learning **Java and Android Development**
+- 🌱 I’m currently learning **Azure, GCP,and Kotlin Android Development**
 
-- 💬 Ask me about **php, power bi and flutter**
+- 💬 Ask me about **php, azure, google workspace, zoho workplace, power bi and flutter**
 
-- 📫 How to reach me **kelvinmwenda9@gmail.com**
+- 📫 How to reach me **kelvinmwenda9@gmail.com** or **kelvin at morobust dot com**
 
-- ⚡ Fun fact **I am a church mouse**
+- ⚡ Fun fact **I am a loner mostly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
