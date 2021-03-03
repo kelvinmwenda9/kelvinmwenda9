@@ -39,7 +39,7 @@ https://cloud.cft.co.ke/index.php/re_dashboard - this is the real estate module 
 modules and choose RE <br><br>
 
 
-<h4 align="left">Team Projects:</h4><br>
+<h4 align="left">Team Projects:</h4>
 https://sigalagalapoly.ac.ke/ <br><br>
 
 <h4>Azure Fundamentals Badge:</h4>
