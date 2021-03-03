@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Mwenda</h1>
-<h3 align="center">A passionate software developer and cloud specialist from Kenya</h3>
+<h3 align="center">A passionate cybersecurity engineer, powerapps, software developer and cloud specialist from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinmwenda9&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinmwenda9" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Azure, GCP,and Kotlin Android Development**
 
-- 💬 Ask me about **php, azure, google workspace, zoho workplace, power bi and flutter**
+- 💬 Ask me about **php, azure, google workspace, zoho workplace, power apps, power bi and flutter**
 
 - 📫 How to reach me **kelvinmwenda9@gmail.com** or **kelvin at morobust dot com**
 
