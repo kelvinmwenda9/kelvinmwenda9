@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_kaburu_" target="blank"><img src="https://img.shields.io/twitter/follow/_kaburu_?logo=twitter&style=for-the-badge" alt="_kaburu_" /></a> </p>
 
-- 🌱 I’m currently learning **Azure, GCP,and Kotlin Android Development**
+- 🌱 I’m currently learning **Azure, GCP, and Kotlin/Flutter Android Development**
 
 - 💬 Ask me about **php, azure, google workspace, zoho workplace, power apps, power bi and flutter**
 
