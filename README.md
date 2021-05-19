@@ -42,6 +42,14 @@ modules and choose RE <br><br>
 <h4 align="left">Team Projects:</h4>
 https://sigalagalapoly.ac.ke/ <br><br>
 
+<h4 align="left">PowerPlatform Projects:</h4><br>
+<ul>
+  <li>Built an app to quickly save contact information from business cards</li>
+  <li>Connected and built PowerApps with data from Dynamics 365 HE Accelerator</li>
+  <li>Built product portfolio for my grocery organization, records can now be accessed quickly</li>
+</ul>
+<br><br>
+
 <h4>Azure Fundamentals Badge:</h4>
 <h5>https://www.youracclaim.com/badges/4e662ca0-3dc6-49e0-abdb-64316f1b1a7a/public_url</h5>
 
