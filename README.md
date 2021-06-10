@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning and re-learning **Azure, GCP, Power Apps,Product Management, and Android Development**
 
-- 💬 Ask me about **php, ruby on rails, azure, google workspace, zoho workplace, power apps, power bi and flutter**
+- 💬 Ask me about **product management, php, ruby on rails, azure, google workspace, zoho workplace, power apps, power bi and flutter**
 
 - 📫 How to reach me **kelvinmwenda9@gmail.com**
 
