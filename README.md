@@ -23,7 +23,7 @@
 
 <h3 align="left">Projects and Links:</h3>
 
-<h4>Udacityand Hotels Nigeria Projects (Product Management Challenge Course)</h4>
+<h4>Udacity and Hotels Nigeria Projects (Product Management Challenge Course)</h4>
 
 <p>
   <a href="https://miro.com/app/board/o9J_lDiw6vE=/">Link to Mini Product (Slack Addon Feature Research, PRD, and Roadmap)</a>
