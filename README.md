@@ -32,6 +32,10 @@
 
 </p>
 
+<br>
+
+<h4>Other Individual and Assigned Projects</h4>
+<br>
 
 <p align="left">
 https://adventsoko.co.ke/ <br>
