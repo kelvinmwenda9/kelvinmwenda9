@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/_kaburu_" target="blank"><img src="https://img.shields.io/twitter/follow/_kaburu_?logo=twitter&style=for-the-badge" alt="_kaburu_" /></a> </p>
 
-- 🌱 I’m currently learning **Azure, GCP, and Kotlin/Flutter Android Development**
+- 🌱 I’m currently learning and re-learning **Azure, GCP, Power Apps,Product Management, and Android Development**
 
-- 💬 Ask me about **php, azure, google workspace, zoho workplace, power apps, power bi and flutter**
+- 💬 Ask me about **php, ruby on rails, azure, google workspace, zoho workplace, power apps, power bi and flutter**
 
-- 📫 How to reach me **kelvinmwenda9@gmail.com** or **kelvin at morobust dot com**
+- 📫 How to reach me **kelvinmwenda9@gmail.com**
 
-- ⚡ Fun fact **I am a loner mostly**
+- ⚡ Fun fact **I am curious and love playing chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
