@@ -26,7 +26,7 @@
 <h4>Udacityand Hotels Nigeria Projects (Product Management Challenge Course)</h4>
 
 <p>
-  <a href="https://www.figma.com/file/WS1huPFqAoHgAoJbsrfcDb/Modular?node-id=0%3A1">Link to Mini Product (Slack Addon Feature Research, PRD, and Roadmap)</a>
+  <a href="https://miro.com/app/board/o9J_lDiw6vE=/">Link to Mini Product (Slack Addon Feature Research, PRD, and Roadmap)</a>
   <br>
   <a href="https://www.figma.com/file/WS1huPFqAoHgAoJbsrfcDb/Modular?node-id=0%3A1">Hotels Nigeria UI Prototype on Figma</a>
 
