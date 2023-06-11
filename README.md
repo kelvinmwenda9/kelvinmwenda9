@@ -29,7 +29,8 @@
   <a href="https://miro.com/app/board/o9J_lDiw6vE=/">Link to Mini Product (Slack Addon Feature Research, PRD, and Roadmap)</a>
   <br>
   <a href="https://www.figma.com/file/WS1huPFqAoHgAoJbsrfcDb/Modular?node-id=0%3A1">Hotels Nigeria UI Prototype on Figma</a>
-
+  <br>
+  <a href="https://drive.google.com/drive/folders/1m10f9-jzD46GbGFjJbidqQisqnW3XXaY?usp=sharing">Udacity Nano Degree Course Work and Project</a>
 </p>
 
 <br>
