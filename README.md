@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Mwenda</h1>
-<h3 align="center">A passionate product manager, cybersecurity engineer, powerapps, software developer and cloud specialist from Nairobi, Kenya</h3>
+<h3 align="center">A passionate product manager, powerapps, salesforce admin and developer and cloud specialist from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinmwenda9&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinmwenda9" /> </p>
 
