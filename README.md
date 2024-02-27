@@ -55,8 +55,12 @@ https://cloud.cft.co.ke/index.php/re_dashboard - this is the real estate module 
 modules and choose RE <br><br>
 
 
-<h4 align="left">Team Projects:</h4>
+<h4 align="left">Projects:</h4>
 https://sigalagalapoly.ac.ke/ <br><br>
+
+<h4 align="left">TaroWorks User Interface Project:</h4><br>
+<h5><a href="https://www.figma.com/file/qv1esZWNjS5ZL2HOf22sGP/Hackathon-TW-Re-design?type=design&node-id=0-1&mode=design">TaroWorks Android Application User Interface Improvements - Figma</a></h5><br>
+<ul>
 
 <h4 align="left">PowerPlatform Projects:</h4><br>
 <h5><a href="https://www.credly.com/badges/1166abbf-ca1f-4660-85c4-53b02bce8bb8/public_url">Power Platform Fundamentals Certification Badge</a></h5><br>
